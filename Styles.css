@@ -1,0 +1,15 @@
+h1 {
+    color: palegreen;
+
+}
+
+
+p {
+    color: #B8081C;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
